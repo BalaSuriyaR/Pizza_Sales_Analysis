@@ -1,9 +1,10 @@
-# 🍕 Pizza Sales Analysis Dashboard
-
+### Pizza Sales Analysis Dashboard
+```
 ## Overview
 This project builds a comprehensive Pizza Sales Dashboard using SQL for data preparation and Power BI for visualization.
 The dashboard provides business users with actionable insights into sales performance, product preferences, and operational trends.
-
+```
+```
 ## Features
 
 - Dynamic KPI Cards: Total Revenue, Avg Order Value, Total Pizzas Sold, Total Orders, Avg Pizzas Per Order
@@ -29,7 +30,8 @@ pizza-sales-dashboard/
 - **MS SQL Server:** Data import and business logic computation via SQL queries.
 - **Power BI (June 2023 ver.):** Data modeling, cleaning, and interactive dashboard/report creation.
 - **CSV Sales Data:** Raw transactional data used for analytics.
-
+```
+```
 ## Project Steps
 
 1. Import pizza sales data into SQL Server; ensure column data types and integrity.
@@ -45,7 +47,8 @@ pizza-sales-dashboard/
 - Large pizzas and Classic/Supreme categories are most ordered.
 - Seasonal dips detected in September; consider targeted promotions.
 - Best sellers identified for potential upselling; underperformers for menu optimization.
-
+```
+```
 ## Getting Started
 
 1. Clone this repo.
