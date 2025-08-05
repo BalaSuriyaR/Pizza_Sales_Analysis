@@ -32,6 +32,9 @@ pizza-sales-dashboard/
 │ └── dashboard_main.png
 │ └── best_worst_sellers.png
 ├── README.md
+├── executive summary.docx
+├── pizza sales sql queries.docx
+├── problem_statement.docx
 
 ## Process & Tools Used
 
