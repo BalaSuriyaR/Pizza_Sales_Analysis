@@ -4,7 +4,7 @@
 This project builds a comprehensive Pizza Sales Dashboard using SQL for data preparation and Power BI for visualization.
 The dashboard provides business users with actionable insights into sales performance, product preferences, and operational trends.
 ```
-```markdown
+
 ## 📊 Power BI Dashboard
 
 The project also includes a fully interactive Power BI dashboard to visually explore churn patterns and insights.
@@ -16,8 +16,8 @@ The project also includes a fully interactive Power BI dashboard to visually exp
 
 🖼️ Preview: Best/Worst Sellers tab
 
-![screenshots/best_worst_sellers.png](https://github.com/BalaSuriyaR/Pizza_Sales_Analysis_using_PowerBI/blob/main/screenshots/best_worst_sellers.png?raw=true)
-```
+!![Power Bi Dashboard]([screenshots/best_worst_sellers.png](https://github.com/BalaSuriyaR/Pizza_Sales_Analysis_using_PowerBI/blob/main/screenshots/best_worst_sellers.png?raw=true))
+
 ```markdown
 ## Features
 
