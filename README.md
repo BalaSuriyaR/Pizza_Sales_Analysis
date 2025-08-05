@@ -5,6 +5,20 @@ This project builds a comprehensive Pizza Sales Dashboard using SQL for data pre
 The dashboard provides business users with actionable insights into sales performance, product preferences, and operational trends.
 ```
 ```markdown
+## 📊 Power BI Dashboard
+
+The project also includes a fully interactive Power BI dashboard to visually explore churn patterns and insights.
+
+📁 File: `Dashboard/PizzaSalesDashboard.pbix`  
+🖼️ Preview: Home tab
+
+![Power Bi Dashboard](screenshots/dashboard_main.png)
+
+🖼️ Preview: Best/Worst Sellers tab
+
+![Power Bi Dashboard](screenshots/best_worst_sellers.png)
+```
+```markdown
 ## Features
 
 - Dynamic KPI Cards: Total Revenue, Avg Order Value, Total Pizzas Sold, Total Orders, Avg Pizzas Per Order
