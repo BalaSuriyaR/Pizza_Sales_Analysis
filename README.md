@@ -16,10 +16,18 @@ The dashboard provides business users with actionable insights into sales perfor
 ## Project Structure
 
 pizza-sales-dashboard/
-├── data/
-│ └── pizzasalesdata.csv
 ├── dashboard/
 │ └── PizzaSalesDashboard.pbix
+├── assets/
+│ └── bar graph.png
+│ └── delivery-man.png
+│ └── down-arrow.png
+│ └── order-delivery.png
+│ └── pizza-slice.png
+│ └── profit-growth.png
+│ └── test.png
+├── data/
+│ └── pizzasalesdata.csv
 ├── screenshots/
 │ └── dashboard_main.png
 │ └── best_worst_sellers.png
