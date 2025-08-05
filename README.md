@@ -12,11 +12,11 @@ The project also includes a fully interactive Power BI dashboard to visually exp
 📁 File: `Dashboard/PizzaSalesDashboard.pbix`  
 🖼️ Preview: Home tab
 
-![Power Bi Dashboard](screenshots/dashboard_main.png)
+![Power Bi Dashboard] (screenshots/dashboard_main.png)
 
 🖼️ Preview: Best/Worst Sellers tab
 
-![Power Bi Dashboard]([screenshots/best_worst_sellers.png])
+![Power Bi Dashboard] (screenshots/best_worst_sellers.png)
 ```
 ```markdown
 ## Features
