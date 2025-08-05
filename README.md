@@ -7,16 +7,14 @@ The dashboard provides business users with actionable insights into sales perfor
 
 ## 📊 Power BI Dashboard
 
-The project also includes a fully interactive Power BI dashboard to visually explore churn patterns and insights.
-
 📁 File: `Dashboard/PizzaSalesDashboard.pbix`  
 🖼️ Preview: Home tab
 
-![Power Bi Dashboard]([screenshots/dashboard_main.png](https://github.com/BalaSuriyaR/Pizza_Sales_Analysis_using_PowerBI/blob/main/screenshots/dashboard_main.png?raw=true))
+![Power Bi Dashboard](https://github.com/BalaSuriyaR/Pizza_Sales_Analysis_using_PowerBI/blob/main/screenshots/dashboard_main.png?raw=true)
 
 🖼️ Preview: Best/Worst Sellers tab
 
-!![Power Bi Dashboard]([screenshots/best_worst_sellers.png](https://github.com/BalaSuriyaR/Pizza_Sales_Analysis_using_PowerBI/blob/main/screenshots/best_worst_sellers.png?raw=true))
+![Power Bi Dashboard](https://github.com/BalaSuriyaR/Pizza_Sales_Analysis_using_PowerBI/blob/main/screenshots/best_worst_sellers.png?raw=true)
 
 ```markdown
 ## Features
