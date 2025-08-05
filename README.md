@@ -28,7 +28,7 @@ pizza-sales-dashboard/
 ## Process & Tools Used
 
 - **MS SQL Server:** Data import and business logic computation via SQL queries.
-- **Power BI (June 2023 ver.):** Data modeling, cleaning, and interactive dashboard/report creation.
+- **Power BI (June 2025 ver.):** Data modeling, cleaning, and interactive dashboard/report creation.
 - **CSV Sales Data:** Raw transactional data used for analytics.
 ```
 ```
